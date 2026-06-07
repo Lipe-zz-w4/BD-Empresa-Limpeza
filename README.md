@@ -1,6 +1,6 @@
 # BD-Empresa-Limpeza
 
-## Trabalho.
+## Trabalho
 
 Realização da atividade proposta no Google Classroom.
 
